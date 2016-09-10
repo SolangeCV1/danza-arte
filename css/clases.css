@@ -1,0 +1,58 @@
+/* menu */
+h1{
+	text-align: center;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	margin-left:15%;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: grey;
+	font-size: 15px;
+}
+.foto2{
+	background-image: url("../img/12");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left:5px;
+}
+.foto3{
+	background-image: url("../img/breakdance.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 5px;
+}
+.foto4{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	clear:left;
+	margin-top: -150px;
+	background-position: right top;
+}
+.foto5{
+	background-image: url("../img/arabe.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 5px;
+}	
+.foto6{
+	background-image: url("../img/little.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 115px;
+}	

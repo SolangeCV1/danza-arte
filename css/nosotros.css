@@ -1,0 +1,185 @@
+/* menu */
+h1{
+	text-align: center;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+	margin-left:15%;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: grey;
+	font-size: 15px;
+}
+.foto1{
+	background-image: url("../img/dance_7.jpg");
+	background-size: 120%;
+	margin-top: 20px;
+	height: 400px;
+}
+.titulo1{
+	border-radius: 4px;
+	width: 50%;
+	margin-left: 300px;
+	background-color: black;
+	opacity: 0.5;
+}
+.nosotros{
+	text-align: center;
+}
+.nosotros{
+	position: relative;
+	text-align: center;
+	margin-top:-300px;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+}
+.parrafo1{
+	color: #dddddd;
+	text-align: center;
+}
+.columnas{
+	background-image: url("../img/cubes.png");
+	width: 100%;
+	margin-top: 150px;
+}
+.pilar{
+	text-align: center;
+}	
+.pilares{
+	margin-left: 20px;
+	margin-right:20px;
+}
+.pilar3{
+	text-align: center;
+	position: relative;
+	bottom: 177px;
+}
+.pilares3{
+	position: relative;
+	bottom: 170px;
+}
+.fotosprofes{
+	margin-bottom: 50px;
+}
+.foto2{
+	background-image: url("../img/profesor_4.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left:5px;
+}
+.foto3{
+	background-image: url("../img/profesor_14.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 5px;
+}
+.foto4{
+	background-image: url("../img/profesor_1.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 5px;
+}
+.foto5{
+	background-image: url("../img/profesor_10.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	clear:left;
+	margin-top: -150px;
+	background-position: right top;
+}
+.foto6{
+	background-image: url("../img/profesor_11.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 5px;
+}	
+.foto7{
+	background-image: url("../img/profesor_12.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 115px;
+}	
+.foto8{
+	background-image: url("../img/profesor_9.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 800px;
+	margin-top: -150px;
+}
+.foto9{
+	background-image: url("../img/profesor_15.jpg");
+	background-size: cover;
+	width: 150px; 
+	height: 150px;
+	float: left;
+	margin-left: 400px;
+	margin-top: -150px;
+}
+.parrafo2{
+	background-image: url("../img/cubes.png");
+	background-size: 120%;
+	height: 50px;
+	text-align: center;
+	padding: 75px;
+	font-size: 30px;
+}
+/*formulario*/
+.contactanos{
+	background-image: url("../img/shoes_1.jpg");
+	margin-top: 20px;
+	height: 450px;
+}
+h2{
+	color:#003366;
+	margin-left: 30px;
+}
+form{
+	width: 400px;
+	padding: 5px;
+	position: relative;
+	top:5px;
+	margin-left: 30px;
+}
+label{
+	font-size: 20px;
+	display: block;
+	width: 100%;
+}
+input, textarea{
+	margin-bottom: 50px;
+	width: 100px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.enviar{
+	background:#003366;
+	color: white;
+	border-radius: 4px;
+	font-size: 20px;
+}
+.final{
+	background:#003366;
+	width: 100%;
+	margin-top: 20px;
+	color: white;
+	font-size: 10px;
+}
